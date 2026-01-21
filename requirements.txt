@@ -1,0 +1,8 @@
+ultralytics>=8.4.0
+sahi>=0.11.20
+gradio>=4.0.0
+spaces
+pillow
+numpy
+opencv-python-headless
+supervision>=0.25.0
